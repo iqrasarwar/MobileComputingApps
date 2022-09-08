@@ -1,0 +1,15 @@
+button a{
+   color: white !important;
+}
+button{
+   width: 250px;
+   margin: 5px;
+}
+button:hover
+{
+   background-color: white !important;
+   border: 1px soild blue !important;
+}
+button:hover a{
+   color: blue !important;
+}
